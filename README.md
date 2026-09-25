@@ -18,30 +18,30 @@
 
 ## 🧙 About Me
 
-```python
+``python
 class SoftwareEngineer:
     name = "Seu Nome"
     role = "Full Stack Developer"
 
-    languages = [
+  languages = [
         "Python",
         "JavaScript",
         "HTML",
         "CSS"
     ]
 
-    backend = [
+  backend = [
         "Node.js",
         "Python"
     ]
 
-    currently_learning = [
+  currently_learning = [
         "Backend Engineering",
         "Cloud Computing",
         "DevOps",
         "Software Architecture"
     ]
 
-    future = "Software Engineer focused on Backend, Cloud & DevOps"
+  future = "Software Engineer focused on Backend, Cloud & DevOps"
 
-    philosophy = "Build. Learn. Improve. Repeat."
+  philosophy = "Build. Learn. Improve. Repeat."
