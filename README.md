@@ -17,32 +17,27 @@
 
 ---
 
-## 🧙 About Me
+## 👋 About Me
 
-``python
-class SoftwareEngineer:
-    name = "Seu Nome"
-    role = "Full Stack Developer"
+I'm a **Full-Stack Developer** and a future **Software Engineer**, with a strong focus on **Backend Development**.
 
-  languages = [
-        "Python",
-        "JavaScript",
-        "HTML",
-        "CSS"
-    ]
+My main programming language is **Python**, and I also have experience with **Node.js, JavaScript, HTML, and CSS**. I'm interested in building reliable, scalable, and maintainable applications, while continuously improving my software engineering skills.
 
-  backend = [
-        "Node.js",
-        "Python"
-    ]
+☁️ **Cloud & DevOps** are also part of my skill set, and I'm interested in infrastructure, automation, deployment, and creating efficient development environments.
 
-  currently_learning = [
-        "Backend Engineering",
-        "Cloud Computing",
-        "DevOps",
-        "Software Architecture"
-    ]
+### 🛠️ What I Work With
 
-  future = "Software Engineer focused on Backend, Cloud & DevOps"
+* 🐍 **Python** — my primary language
+* 🟢 **Node.js**
+* ⚡ **JavaScript**
+* 🌐 **HTML & CSS**
+* ☁️ **Cloud & DevOps**
+* 🔧 Backend & API development
+* 💻 Full-Stack development
 
-  philosophy = "Build. Learn. Improve. Repeat."
+### 🚀 Currently
+
+I'm constantly learning and expanding my knowledge. I'm open to learning **new programming languages, technologies, frameworks, and tools** whenever they can help me become a better software engineer.
+
+> **Always learning. Always building. Always improving.**
+
