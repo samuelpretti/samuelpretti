@@ -2,13 +2,14 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2735,50:243b55,100:6dd5ed&height=200&section=header&text=Welcome,%20adventurer!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img width="1049" height="1499" alt="image" src="https://github.com/user-attachments/assets/59440f96-921e-4cfb-97e9-c4326337c9a6" />
+
 
   <h2>⚔️ Full Stack Developer → Backend Engineer → Cloud & DevOps</h2>
 
   <p>
     <i>
-      "Every journey begins with a single spell."
+      "starting my journey in software development."
     </i>
   </p>
 
